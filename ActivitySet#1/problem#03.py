@@ -1,3 +1,7 @@
+# This first line is provided for you
 
-hrs = float(input("Enter hours? "))
-print(hrs)
+hrs = input("Enter Hours:")
+h=float (hrs) 
+rate=input ("Enter rate:") 
+r=float (rate) 
+print ("Pay:", h*r) 
